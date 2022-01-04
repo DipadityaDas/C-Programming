@@ -11,6 +11,6 @@ int main() {
 
     // \n is a New-Line Character.
     // It prints a new-line in the screen
-    printf("\nYou have entered: %s %d", str, i);
+    printf("\nYou have entered: %s %d\n", str, i);
     return 0;
 }
